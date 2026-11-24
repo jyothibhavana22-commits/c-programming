@@ -1,22 +1,4 @@
-bwatch
-Lab Usage Monitor
-Dark mode
-Dashboard
-PCs
-Module 1
-Sessions
-Module 2
-Alerts
-Module 3
-Reports
-Module 4
-C Program
-Source
-C program source
-The core logic of the system in C: PC records, sampling, login, alert rules and a lab summary.
-Copy code Copy blocked here: select the text instead
-
-#include <stdio.h>
+ #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
